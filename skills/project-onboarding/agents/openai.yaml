@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Onboarding"
+  short_description: "Enter projects through minimal high-signal context."
+  default_prompt: "Use project-onboarding to inspect this project efficiently."
