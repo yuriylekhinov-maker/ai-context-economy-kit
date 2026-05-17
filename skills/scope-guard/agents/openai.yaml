@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scope Guard"
+  short_description: "Keep broad requests bounded and actionable."
+  default_prompt: "Use scope-guard to keep this task focused."
