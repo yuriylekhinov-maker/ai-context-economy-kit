@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Economy"
+  short_description: "Work with lower context and cost overhead."
+  default_prompt: "Use context-economy to keep the work scoped, efficient, and concise."
