@@ -1,0 +1,4 @@
+interface:
+  display_name: "Change Review"
+  short_description: "Review changed files and focused verification."
+  default_prompt: "Use change-review to inspect what changed and what was verified."
