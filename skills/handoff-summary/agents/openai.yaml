@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handoff Summary"
+  short_description: "Compact long work into a continuation handoff."
+  default_prompt: "Use handoff-summary to prepare a compact continuation summary."
